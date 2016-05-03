@@ -100,18 +100,9 @@
 </div>
   
 <div class="row">
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
+  <div class="col-sm-4" style="background-color:yellow;">.col-sm-4</div>
+  <div class="col-sm-4" style="background-color:red;">.col-sm-4</div>
+  <div class="col-sm-4" style="background-color:blue;">.col-sm-4</div>
 </div>
 </body>
 </html>
