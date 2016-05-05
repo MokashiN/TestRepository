@@ -1,0 +1,32 @@
+[
+  {
+    "no": "1",
+    "name": "MickyMouse",
+    "quantity": "15"
+  },
+ {
+    "no": "2",
+    "name": "DonaldDuck",
+    "quantity": "20"
+  },
+ {
+    "no": "3",
+    "name": "SpiderMan",
+    "quantity": "25"
+  },
+  {
+    "no": "4",
+    "name": "BatMan",
+    "quantity": "30"
+  },
+  {
+    "no": "5",
+    "name": "Mongli",
+    "quantity": "40"
+  },
+ {
+    "no": "6",
+    "name": "Bagira",
+    "quantity": "45"
+  }
+]
