@@ -1,0 +1,25 @@
+{
+  "name": "mychatapp",
+  "authors": [
+    "pranavkatkar <pranav.katkar@niit.com>"
+  ],
+  "description": "chat application",
+  "main": "",
+  "license": "MIT",
+  "homepage": "home.jsp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  "sockjs": "0.3.4",
+    "stomp-websocket": "2.3.4",
+    "angular": "^1.5.8",
+    "lodash": "2.4.1",
+    "bootstrap":"latest"
+  }
+}
